@@ -1,6 +1,7 @@
-console.log('Hello');
-console.log('Hello');
-console.log('Hello');
-console.log('Hello');
-console.log('Hello');
-console.log('Hello');
+const seyHello = function (nome) {
+    console.log('Hello', nome);
+}
+
+module.exports = {
+    seyHello
+}
