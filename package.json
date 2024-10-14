@@ -5,6 +5,9 @@
   "scripts": {
     "test": "echo \"No tests specified\""
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "",
   "license": "ISC",
   "keywords": [],
